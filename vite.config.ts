@@ -17,4 +17,5 @@ module.exports = defineConfig({
     outDir: 'dist',
     sourcemap: true,
   },
+  base: '/Social-media/',
 })
