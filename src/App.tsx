@@ -7,9 +7,10 @@ import TrafficSourcesChart from './components/TrafficSourcesChart';
 import ChartCard from './components/ChartCard';
 import TopVideosTable from './components/TopVideosTable';
 import YesWelderAnalysis from './YesWelderAnalysis';
+import YesWelderHobartComparison from './components/YesWelderHobartComparison';
 
 function App() {
-  const [activeReport, setActiveReport] = useState<'demo' | 'yeswelder'>('demo');
+  const [activeReport, setActiveReport] = useState<'demo' | 'yeswelder' | 'comparison'>('demo');
 
   const { channel, analytics, reportPeriod } = mockReportData;
 
@@ -52,6 +53,16 @@ function App() {
                   }`}
                 >
                   YesWelder分析
+                </button>
+                <button
+                  onClick={() => setActiveReport('comparison')}
+                  className={`px-4 py-2 rounded-md text-sm font-medium transition-colors ${
+                    activeReport === 'comparison'
+                      ? 'bg-white text-blue-600 shadow-sm'
+                      : 'text-gray-600 hover:text-gray-900'
+                  }`}
+                >
+                  YesWelder vs Hobart
                 </button>
               </div>
             </div>
@@ -127,8 +138,10 @@ function App() {
               </div>
             </div>
           </>
-        ) : (
+        ) : activeReport === 'yeswelder' ? (
           <YesWelderAnalysis />
+        ) : (
+          <YesWelderHobartComparison />
         )}
       </main>
 

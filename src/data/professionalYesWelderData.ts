@@ -9,19 +9,19 @@ export const yeswelderAnalysisReportData: ReportData = {
     customUrl: 'yeswelder',
     publishedAt: '2018-06-12T00:00:00Z',
     thumbnail: 'https://maas-log-prod.cn-wlcb.ufileos.com/anthropic/f86070c4-9c16-4b87-ae15-62ff46c5ea67/51acf0f1caf4415d12d4317945191133.png?UCloudPublicKey=TOKEN_e15ba47a-d098-4fbd-9afc-a0dcf0e4e621&Expires=1758126509&Signature=FBwxRwXnfBBrTw+9/3RQqnXfuAs=',
-    subscriberCount: 158000,
-    videoCount: 324,
-    viewCount: 28500000,
+    subscriberCount: 581000,
+    videoCount: 1400,
+    viewCount: 85000000,
     country: 'US'
   },
   analytics: {
     overview: {
-      totalViews: 28500000,
-      totalWatchTime: 71250000,
-      totalSubscribers: 158000,
-      totalVideos: 324,
-      averageViewDuration: 250,
-      engagementRate: 6.2
+      totalViews: 85000000,
+      totalWatchTime: 212500000,
+      totalSubscribers: 581000,
+      totalVideos: 1400,
+      averageViewDuration: 450,
+      engagementRate: 6.0
     },
     dailyStats: [
       { date: '2025-08-01', views: 52500, watchTime: 82800, subscribers: 355 },
@@ -168,16 +168,16 @@ export const competitorAnalysis = {
       channel: {
         id: 'UC_hobart_welding',
         title: 'Hobart Welding',
-        subscriberCount: 420000,
-        videoCount: 612,
-        viewCount: 68000000,
+        subscriberCount: 13500,
+        videoCount: 125,
+        viewCount: 2500000,
         country: 'US'
       },
       performance: {
-        avgViewsPerVideo: 111111,
-        engagementRate: 9.8,
-        growthRate: 15.2,
-        uploadFrequency: 3.2
+        avgViewsPerVideo: 20000,
+        engagementRate: 4.2,
+        growthRate: 2.1,
+        uploadFrequency: 0.8
       }
     },
     {
