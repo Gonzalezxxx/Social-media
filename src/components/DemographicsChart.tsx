@@ -33,9 +33,9 @@ const DemographicsChart: React.FC<DemographicsChartProps> = ({
   ];
 
   return (
-    <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+    <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
       {/* Age Groups */}
-      <div className="bg-white rounded-lg shadow-md p-6">
+      <div className="bg-white rounded-lg shadow-md p-6 lg:col-span-2">
         <h3 className="text-lg font-semibold text-gray-900 mb-4">Age Distribution</h3>
         <div className="h-64">
           <ResponsiveContainer width="100%" height="100%">
@@ -52,10 +52,10 @@ const DemographicsChart: React.FC<DemographicsChartProps> = ({
         </div>
       </div>
 
-      {/* Gender Distribution */}
-      <div className="bg-white rounded-lg shadow-md p-6">
-        <h3 className="text-lg font-semibold text-gray-900 mb-4">Gender Distribution</h3>
-        <div className="h-64">
+      {/* Gender Distribution - 更小更紧凑 */}
+      <div className="bg-white rounded-lg shadow-md p-4">
+        <h3 className="text-md font-semibold text-gray-900 mb-3">Gender Distribution</h3>
+        <div className="h-48">
           <ResponsiveContainer width="100%" height="100%">
             <PieChart>
               <Pie
@@ -64,7 +64,7 @@ const DemographicsChart: React.FC<DemographicsChartProps> = ({
                 cy="50%"
                 labelLine={false}
                 label={({ name, value }) => `${name}: ${value}%`}
-                outerRadius={80}
+                outerRadius={60}
                 fill="#8884d8"
                 dataKey="value"
               >
@@ -72,14 +72,35 @@ const DemographicsChart: React.FC<DemographicsChartProps> = ({
                   <Cell key={`cell-${index}`} fill={entry.color} />
                 ))}
               </Pie>
-              <Tooltip formatter={(value: number) => [`${value}%`, 'Percentage']} />
+              <Tooltip
+                formatter={(value: number) => [`${value}%`, 'Percentage']}
+                contentStyle={{
+                  fontSize: '12px',
+                  padding: '8px'
+                }}
+              />
             </PieChart>
           </ResponsiveContainer>
+        </div>
+        {/* 简化的性别统计显示 */}
+        <div className="mt-3 space-y-1">
+          {genderData.map((item, index) => (
+            <div key={index} className="flex justify-between items-center text-xs">
+              <div className="flex items-center">
+                <div
+                  className="w-3 h-3 rounded-full mr-2"
+                  style={{ backgroundColor: item.color }}
+                ></div>
+                <span>{item.name}</span>
+              </div>
+              <span className="font-medium">{item.value}%</span>
+            </div>
+          ))}
         </div>
       </div>
 
       {/* Top Countries */}
-      <div className="bg-white rounded-lg shadow-md p-6 lg:col-span-2">
+      <div className="bg-white rounded-lg shadow-md p-6 lg:col-span-3">
         <h3 className="text-lg font-semibold text-gray-900 mb-4">Top Countries by Views</h3>
         <div className="h-64">
           <ResponsiveContainer width="100%" height="100%">
