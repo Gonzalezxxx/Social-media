@@ -60,23 +60,23 @@ export const yeswelderAnalytics = {
     engagementRate: 8.7
   },
   dailyStats: [
-    { date: '2024-09-01', views: 48500, watchTime: 75800, subscribers: 320 },
-    { date: '2024-09-02', views: 52200, watchTime: 82500, subscribers: 385 },
-    { date: '2024-09-03', views: 45800, watchTime: 71200, subscribers: 295 },
-    { date: '2024-09-04', views: 61200, watchTime: 96800, subscribers: 485 },
-    { date: '2024-09-05', views: 73500, watchTime: 118500, subscribers: 580 },
-    { date: '2024-09-06', views: 56800, watchTime: 89200, subscribers: 425 },
-    { date: '2024-09-07', views: 82500, watchTime: 132500, subscribers: 680 },
-    { date: '2024-09-08', views: 69800, watchTime: 108500, subscribers: 525 },
-    { date: '2024-09-09', views: 78500, watchTime: 122800, subscribers: 620 },
-    { date: '2024-09-10', views: 92500, watchTime: 148500, subscribers: 785 },
-    { date: '2024-09-11', views: 65800, watchTime: 102500, subscribers: 495 },
-    { date: '2024-09-12', views: 79500, watchTime: 124800, subscribers: 615 },
-    { date: '2024-09-13', views: 98500, watchTime: 158500, subscribers: 825 },
-    { date: '2024-09-14', views: 87800, watchTime: 138500, subscribers: 705 },
-    { date: '2024-09-15', views: 115000, watchTime: 185500, subscribers: 980 },
-    { date: '2024-09-16', views: 96800, watchTime: 152500, subscribers: 785 },
-    { date: '2024-09-17', views: 108500, watchTime: 172500, subscribers: 895 }
+    { date: '2025-08-01', views: 52500, watchTime: 82800, subscribers: 355 },
+    { date: '2025-08-02', views: 56800, watchTime: 89500, subscribers: 428 },
+    { date: '2025-08-03', views: 49800, watchTime: 78200, subscribers: 325 },
+    { date: '2025-08-04', views: 66800, watchTime: 105800, subscribers: 535 },
+    { date: '2025-08-05', views: 79500, watchTime: 128500, subscribers: 638 },
+    { date: '2025-08-06', views: 61800, watchTime: 98200, subscribers: 468 },
+    { date: '2025-08-07', views: 89500, watchTime: 142500, subscribers: 748 },
+    { date: '2025-08-08', views: 75800, watchTime: 118500, subscribers: 578 },
+    { date: '2025-08-09', views: 85500, watchTime: 134800, subscribers: 682 },
+    { date: '2025-08-10', views: 100500, watchTime: 161500, subscribers: 864 },
+    { date: '2025-08-11', views: 71800, watchTime: 112500, subscribers: 545 },
+    { date: '2025-08-12', views: 86500, watchTime: 135800, subscribers: 677 },
+    { date: '2025-08-13', views: 107500, watchTime: 171500, subscribers: 908 },
+    { date: '2025-08-14', views: 95800, watchTime: 151500, subscribers: 776 },
+    { date: '2025-08-15', views: 125000, watchTime: 201500, subscribers: 1078 },
+    { date: '2025-08-16', views: 105800, watchTime: 167500, subscribers: 864 },
+    { date: '2025-08-17', views: 118500, watchTime: 188500, subscribers: 985 }
   ],
   topVideos: [
     {
@@ -229,7 +229,7 @@ export const yeswelderReportData: ReportData = {
   analytics: yeswelderAnalytics,
   reportGenerated: new Date().toISOString(),
   reportPeriod: {
-    start: '2024-09-01',
-    end: '2024-09-17'
+    start: '2025-08-01',
+    end: '2025-08-17'
   }
 };

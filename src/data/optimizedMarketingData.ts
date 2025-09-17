@@ -93,31 +93,31 @@ export const optimizedMarketingData: ReportData = {
       audienceRetention: 65
     },
     dailyStats: [
-      { date: '2024-09-01', views: 45000, watchTime: 67500, subscribers: 380 },
-      { date: '2024-09-02', views: 52000, watchTime: 78000, subscribers: 420 },
-      { date: '2024-09-03', views: 48000, watchTime: 72000, subscribers: 395 },
-      { date: '2024-09-04', views: 61000, watchTime: 91500, subscribers: 485 },
-      { date: '2024-09-05', views: 72000, watchTime: 108000, subscribers: 580 },
-      { date: '2024-09-06', views: 58000, watchTime: 87000, subscribers: 465 },
-      { date: '2024-09-07', views: 85000, watchTime: 127500, subscribers: 680 },
-      { date: '2024-09-08', views: 69000, watchTime: 103500, subscribers: 555 },
-      { date: '2024-09-09', views: 78000, watchTime: 117000, subscribers: 625 },
-      { date: '2024-09-10', views: 92000, watchTime: 138000, subscribers: 735 },
-      { date: '2024-09-11', views: 65000, watchTime: 97500, subscribers: 520 },
-      { date: '2024-09-12', views: 74000, watchTime: 111000, subscribers: 595 },
-      { date: '2024-09-13', views: 88000, watchTime: 132000, subscribers: 710 },
-      { date: '2024-09-14', views: 81000, watchTime: 121500, subscribers: 650 },
-      { date: '2024-09-15', views: 95000, watchTime: 142500, subscribers: 765 },
-      { date: '2024-09-16', views: 87000, watchTime: 130500, subscribers: 700 },
-      { date: '2024-09-17', views: 98000, watchTime: 147000, subscribers: 790 }
+      { date: '2025-08-01', views: 48500, watchTime: 73800, subscribers: 418 },
+      { date: '2025-08-02', views: 56800, watchTime: 85800, subscribers: 462 },
+      { date: '2025-08-03', views: 52800, watchTime: 79200, subscribers: 435 },
+      { date: '2025-08-04', views: 67000, watchTime: 100500, subscribers: 534 },
+      { date: '2025-08-05', views: 79000, watchTime: 118500, subscribers: 638 },
+      { date: '2025-08-06', views: 63800, watchTime: 95700, subscribers: 512 },
+      { date: '2025-08-07', views: 93500, watchTime: 140250, subscribers: 748 },
+      { date: '2025-08-08', views: 75900, watchTime: 113850, subscribers: 611 },
+      { date: '2025-08-09', views: 85800, watchTime: 128700, subscribers: 688 },
+      { date: '2025-08-10', views: 101200, watchTime: 151800, subscribers: 809 },
+      { date: '2025-08-11', views: 71500, watchTime: 107250, subscribers: 572 },
+      { date: '2025-08-12', views: 81400, watchTime: 122100, subscribers: 655 },
+      { date: '2025-08-13', views: 96800, watchTime: 145200, subscribers: 781 },
+      { date: '2025-08-14', views: 89100, watchTime: 133650, subscribers: 715 },
+      { date: '2025-08-15', views: 104500, watchTime: 156750, subscribers: 842 },
+      { date: '2025-08-16', views: 95700, watchTime: 143550, subscribers: 770 },
+      { date: '2025-08-17', views: 107800, watchTime: 161700, subscribers: 869 }
     ],
     topVideos: [
       {
-        id: 'marketing-analytics-2024',
-        title: 'Marketing Analytics 2024: Complete Strategy Guide',
-        description: 'Comprehensive guide to marketing analytics in 2024. Learn about the latest tools, techniques, and strategies for data-driven marketing.',
-        thumbnail: 'https://i.ytimg.com/vi/marketing-analytics-2024/maxresdefault.jpg',
-        publishedAt: '2024-08-20T00:00:00Z',
+        id: 'marketing-analytics-2025',
+        title: 'Marketing Analytics 2025: Complete Strategy Guide',
+        description: 'Comprehensive guide to marketing analytics in 2025. Learn about the latest tools, techniques, and strategies for data-driven marketing.',
+        thumbnail: 'https://i.ytimg.com/vi/marketing-analytics-2025/maxresdefault.jpg',
+        publishedAt: '2025-07-20T00:00:00Z',
         duration: '32:45',
         viewCount: 485000,
         likeCount: 32500,
@@ -140,10 +140,10 @@ export const optimizedMarketingData: ReportData = {
       },
       {
         id: 'social-media-algorithm',
-        title: 'Social Media Algorithms Decoded: What Works in 2024',
+        title: 'Social Media Algorithms Decoded: What Works in 2025',
         description: 'Deep dive into social media algorithms and how to optimize your content for maximum reach and engagement.',
-        thumbnail: 'https://i.ytimg.com/vi/social-media-algorithm/maxresdefault.jpg',
-        publishedAt: '2024-08-10T00:00:00Z',
+        thumbnail: 'https://i.ytimg.com/vi/social-media-algorithm-2025/maxresdefault.jpg',
+        publishedAt: '2025-07-10T00:00:00Z',
         duration: '28:15',
         viewCount: 325000,
         likeCount: 23500,
@@ -183,8 +183,8 @@ export const optimizedMarketingData: ReportData = {
   },
   reportGenerated: new Date().toISOString(),
   reportPeriod: {
-    start: '2024-09-01',
-    end: '2024-09-17'
+    start: '2025-08-01',
+    end: '2025-08-17'
   }
 };
 
