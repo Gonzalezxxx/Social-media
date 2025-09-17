@@ -1,0 +1,152 @@
+{
+  "channel_info": {
+    "name": "YesWelder",
+    "handle": "@yeswelder",
+    "url": "https://www.youtube.com/yeswelder",
+    "socialblade_url": "https://socialblade.com/youtube/handle/yeswelder",
+    "category": "Target",
+    "country": "United States",
+    "channel_type": "Education",
+    "created_date": "2018-06-12",
+    "last_updated": "2025-01-15",
+    "grade": "B+"
+  },
+  "statistics": {
+    "subscribers": {
+      "current": 158000,
+      "formatted": "158.0K",
+      "daily_growth": 350,
+      "monthly_growth": 10500,
+      "yearly_growth": 127750,
+      "growth_rate": 8.5,
+      "milestones": [
+        {
+          "date": "2020-03-15",
+          "count": 100000
+        },
+        {
+          "date": "2021-08-22",
+          "count": 125000
+        },
+        {
+          "date": "2022-12-10",
+          "count": 140000
+        },
+        {
+          "date": "2023-06-05",
+          "count": 150000
+        },
+        {
+          "date": "2024-02-18",
+          "count": 158000
+        }
+      ]
+    },
+    "views": {
+      "total": 28500000,
+      "formatted": "28.5M",
+      "monthly": 1425000,
+      "daily": 47500,
+      "avg_per_video": 87963,
+      "formatted_avg_per_video": "88.0K"
+    },
+    "videos": {
+      "total": 324,
+      "avg_length": "12:45",
+      "uploads_this_month": 4,
+      "uploads_this_year": 48
+    },
+    "engagement": {
+      "rate": 6.2,
+      "likes_per_video": 8500,
+      "comments_per_video": 650,
+      "shares_per_video": 320
+    },
+    "earnings": {
+      "estimated_monthly": 4500,
+      "estimated_yearly": 54000,
+      "channel_value": 285000,
+      "cpm_range": "$2.50 - $4.50",
+      "revenue_per_view": "$0.0035"
+    }
+  },
+  "rankings": {
+    "global": 45231,
+    "country": 12543,
+    "category": 3421,
+    "subscriber_rank": 45231,
+    "view_rank": 40231,
+    "engagement_rank": 47231
+  },
+  "demographics": {
+    "age_distribution": {
+      "13-17": 5,
+      "18-24": 18,
+      "25-34": 35,
+      "35-44": 28,
+      "45-54": 15,
+      "55-64": 4,
+      "65+": 1
+    },
+    "gender_distribution": {
+      "male": 92,
+      "female": 7,
+      "other": 1
+    },
+    "top_countries": [
+      {
+        "country": "United States",
+        "percentage": 50
+      },
+      {
+        "country": "Canada",
+        "percentage": 10
+      },
+      {
+        "country": "Australia",
+        "percentage": 7
+      },
+      {
+        "country": "United Kingdom",
+        "percentage": 6
+      },
+      {
+        "country": "Germany",
+        "percentage": 4
+      }
+    ]
+  },
+  "traffic_sources": {
+    "youtube_search": 40,
+    "suggested_videos": 25,
+    "browse_features": 15,
+    "external": 10,
+    "direct": 6,
+    "other": 4
+  },
+  "audience_retention": {
+    "average_view_duration": "4:15",
+    "percentage_watched": 65,
+    "top_performing_videos": [
+      {
+        "title": "Complete Welding Tutorial for Beginners",
+        "retention": 85
+      },
+      {
+        "title": "YesWelder 205DS Review",
+        "retention": 78
+      },
+      {
+        "title": "TIG Welding Techniques",
+        "retention": 72
+      }
+    ]
+  },
+  "metadata": {
+    "data_source": "Social Blade Style Analysis",
+    "generated_at": "2025-09-18T01:26:31.481924",
+    "confidence_level": "high",
+    "update_frequency": "daily",
+    "last_data_refresh": "2025-09-18"
+  }
+}

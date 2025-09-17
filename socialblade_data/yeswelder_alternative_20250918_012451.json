@@ -1,0 +1,28 @@
+{
+  "channel_key": "yeswelder",
+  "channel_name": "YesWelder",
+  "channel_category": "Target",
+  "data_sources": [
+    "known_stats"
+  ],
+  "collected_at": "2025-09-18T01:23:23.051709",
+  "known_data": {
+    "source": "known_stats",
+    "channel_name": "YesWelder",
+    "subscribers": "158K",
+    "views": "28.5M",
+    "videos": "324",
+    "scraped_at": "2025-09-18T01:24:51.651668",
+    "note": "基于已知统计数据，可能不是最新的"
+  },
+  "best_data": {
+    "subscribers": "158K",
+    "views": "28.5M",
+    "videos": "324",
+    "subscribers_count": 158000.0,
+    "views_count": 28500000.0,
+    "videos_count": 324.0,
+    "source": "known_data",
+    "confidence": "low"
+  }
+}

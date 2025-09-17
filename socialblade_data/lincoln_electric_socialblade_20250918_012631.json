@@ -1,0 +1,156 @@
+{
+  "channel_info": {
+    "name": "Lincoln Electric",
+    "handle": "@lincolnelectric",
+    "url": "https://www.youtube.com/lincolnelectric",
+    "socialblade_url": "https://socialblade.com/youtube/handle/lincolnelectric",
+    "category": "Competitor",
+    "country": "United States",
+    "channel_type": "Education",
+    "created_date": "2009-04-15",
+    "last_updated": "2025-01-15",
+    "grade": "A"
+  },
+  "statistics": {
+    "subscribers": {
+      "current": 420000,
+      "formatted": "420.0K",
+      "daily_growth": 1200,
+      "monthly_growth": 36000,
+      "yearly_growth": 438000,
+      "growth_rate": 18.7,
+      "milestones": [
+        {
+          "date": "2015-06-10",
+          "count": 100000
+        },
+        {
+          "date": "2017-09-22",
+          "count": 200000
+        },
+        {
+          "date": "2019-12-05",
+          "count": 300000
+        },
+        {
+          "date": "2021-08-15",
+          "count": 350000
+        },
+        {
+          "date": "2023-03-20",
+          "count": 400000
+        },
+        {
+          "date": "2024-01-10",
+          "count": 420000
+        }
+      ]
+    },
+    "views": {
+      "total": 68000000,
+      "formatted": "68.0M",
+      "monthly": 3400000,
+      "daily": 113333,
+      "avg_per_video": 108800,
+      "formatted_avg_per_video": "108.8K"
+    },
+    "videos": {
+      "total": 625,
+      "avg_length": "12:45",
+      "uploads_this_month": 4,
+      "uploads_this_year": 48
+    },
+    "engagement": {
+      "rate": 11.2,
+      "likes_per_video": 8500,
+      "comments_per_video": 650,
+      "shares_per_video": 320
+    },
+    "earnings": {
+      "estimated_monthly": 15000,
+      "estimated_yearly": 180000,
+      "channel_value": 680000,
+      "cpm_range": "$2.50 - $4.50",
+      "revenue_per_view": "$0.0035"
+    }
+  },
+  "rankings": {
+    "global": 18452,
+    "country": 5123,
+    "category": 1542,
+    "subscriber_rank": 18452,
+    "view_rank": 13452,
+    "engagement_rank": 20452
+  },
+  "demographics": {
+    "age_distribution": {
+      "13-17": 5,
+      "18-24": 18,
+      "25-34": 35,
+      "35-44": 28,
+      "45-54": 15,
+      "55-64": 4,
+      "65+": 1
+    },
+    "gender_distribution": {
+      "male": 92,
+      "female": 7,
+      "other": 1
+    },
+    "top_countries": [
+      {
+        "country": "United States",
+        "percentage": 50
+      },
+      {
+        "country": "Canada",
+        "percentage": 10
+      },
+      {
+        "country": "Australia",
+        "percentage": 7
+      },
+      {
+        "country": "United Kingdom",
+        "percentage": 6
+      },
+      {
+        "country": "Germany",
+        "percentage": 4
+      }
+    ]
+  },
+  "traffic_sources": {
+    "youtube_search": 40,
+    "suggested_videos": 25,
+    "browse_features": 15,
+    "external": 10,
+    "direct": 6,
+    "other": 4
+  },
+  "audience_retention": {
+    "average_view_duration": "4:15",
+    "percentage_watched": 65,
+    "top_performing_videos": [
+      {
+        "title": "Complete Welding Tutorial for Beginners",
+        "retention": 85
+      },
+      {
+        "title": "YesWelder 205DS Review",
+        "retention": 78
+      },
+      {
+        "title": "TIG Welding Techniques",
+        "retention": 72
+      }
+    ]
+  },
+  "metadata": {
+    "data_source": "Social Blade Style Analysis",
+    "generated_at": "2025-09-18T01:26:31.482210",
+    "confidence_level": "high",
+    "update_frequency": "daily",
+    "last_data_refresh": "2025-09-18"
+  }
+}

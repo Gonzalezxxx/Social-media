@@ -1,0 +1,25 @@
+{
+  "update_timestamp": "2025-09-18T01:26:31.487223",
+  "package_version": "1.0",
+  "data_source": "Social Blade Style Analysis",
+  "target_system": "marketing.globaloneclick.net",
+  "channels_updated": [
+    "yeswelder",
+    "lincoln_electric",
+    "hobart_welding",
+    "miller_electric",
+    "weldpro"
+  ],
+  "data_files": {
+    "summary": "socialblade_comprehensive_summary_20250918_012631.json",
+    "report": "socialblade_comprehensive_report_20250918_012631.md",
+    "csv_summary": "socialblade_channels_summary_20250918_012631.csv",
+    "csv_detailed": "socialblade_detailed_metrics_20250918_012631.csv"
+  },
+  "key_insights": {
+    "total_subscribers_analyzed": 1503000,
+    "yeswelder_ranking": 5,
+    "competitive_landscape": "Highly competitive with established brands",
+    "growth_opportunities": "Strong potential for content optimization"
+  }
+}

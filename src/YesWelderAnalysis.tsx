@@ -1,6 +1,6 @@
 import React from 'react';
-import ComprehensiveAnalyticsDashboard from './components/ComprehensiveAnalyticsDashboard';
-import { yeswelderComprehensiveData } from './data/yeswelderComprehensiveData';
+import GlobalOneClickStyleAnalysis from './components/GlobalOneClickStyleAnalysis';
+import { yeswelderAnalysisReportData } from './data/professionalYesWelderData';
 
 function YesWelderAnalysis() {
   return (
@@ -19,13 +19,13 @@ function YesWelderAnalysis() {
               <div className="text-right">
                 <div className="text-sm text-blue-100">订阅者</div>
                 <div className="text-2xl font-bold">
-                  {((yeswelderComprehensiveData.channel.subscriberCount) / 1000).toFixed(0)}K
+                  {((yeswelderAnalysisReportData.channel.subscriberCount) / 1000).toFixed(0)}K
                 </div>
               </div>
               <img
                 className="h-16 w-16 rounded-full border-4 border-white shadow-lg"
-                src={yeswelderComprehensiveData.channel.thumbnail}
-                alt={yeswelderComprehensiveData.channel.title}
+                src={yeswelderAnalysisReportData.channel.thumbnail}
+                alt={yeswelderAnalysisReportData.channel.title}
               />
             </div>
           </div>
@@ -75,8 +75,8 @@ function YesWelderAnalysis() {
           </div>
         </div>
 
-        {/* 综合分析仪表板 */}
-        <ComprehensiveAnalyticsDashboard data={yeswelderComprehensiveData} />
+        {/* 完全对标marketing.globaloneclick.net的专业分析仪表板 */}
+        <GlobalOneClickStyleAnalysis />
       </main>
 
       {/* Footer */}

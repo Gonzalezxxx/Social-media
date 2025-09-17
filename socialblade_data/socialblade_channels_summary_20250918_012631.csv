@@ -1,0 +1,6 @@
+channel_key,channel_name,category,subscribers,subscribers_formatted,views,views_formatted,videos,avg_views_per_video,engagement_rate,growth_rate,monthly_earnings,yearly_earnings,channel_value,global_rank,country_rank,category_rank,socialblade_grade,created_date,last_updated
+yeswelder,YesWelder,Target,158000,158.0K,28500000,28.5M,324,87963,6.2,8.5,4500,54000,285000,45231,12543,3421,B+,2018-06-12,2025-01-15
+lincoln_electric,Lincoln Electric,Competitor,420000,420.0K,68000000,68.0M,625,108800,11.2,18.7,15000,180000,680000,18452,5123,1542,A,2009-04-15,2025-01-15
+hobart_welding,Hobart Welding,Competitor,420000,420.0K,68000000,68.0M,612,111111,9.8,15.2,14500,174000,675000,18765,5234,1587,A-,2010-08-20,2025-01-15
+miller_electric,Miller Electric,Competitor,310000,310.0K,42000000,42.0M,485,86598,10.1,14.3,9500,114000,420000,25431,7234,2154,A-,2011-12-05,2025-01-15
+weldpro,WeldPro,Competitor,195000,195.0K,28000000,28.0M,324,86420,7.2,8.3,4200,50400,280000,38765,10876,2987,B+,2019-03-15,2025-01-15

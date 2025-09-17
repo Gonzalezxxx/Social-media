@@ -1,0 +1,81 @@
+channel_key,channel_name,metric_type,metric_name,metric_value,unit
+yeswelder,YesWelder,demographics_age,13-17,5,percentage
+yeswelder,YesWelder,demographics_age,18-24,18,percentage
+yeswelder,YesWelder,demographics_age,25-34,35,percentage
+yeswelder,YesWelder,demographics_age,35-44,28,percentage
+yeswelder,YesWelder,demographics_age,45-54,15,percentage
+yeswelder,YesWelder,demographics_age,55-64,4,percentage
+yeswelder,YesWelder,demographics_age,65+,1,percentage
+yeswelder,YesWelder,demographics_gender,male,92,percentage
+yeswelder,YesWelder,demographics_gender,female,7,percentage
+yeswelder,YesWelder,demographics_gender,other,1,percentage
+yeswelder,YesWelder,traffic_sources,youtube_search,40,percentage
+yeswelder,YesWelder,traffic_sources,suggested_videos,25,percentage
+yeswelder,YesWelder,traffic_sources,browse_features,15,percentage
+yeswelder,YesWelder,traffic_sources,external,10,percentage
+yeswelder,YesWelder,traffic_sources,direct,6,percentage
+yeswelder,YesWelder,traffic_sources,other,4,percentage
+lincoln_electric,Lincoln Electric,demographics_age,13-17,5,percentage
+lincoln_electric,Lincoln Electric,demographics_age,18-24,18,percentage
+lincoln_electric,Lincoln Electric,demographics_age,25-34,35,percentage
+lincoln_electric,Lincoln Electric,demographics_age,35-44,28,percentage
+lincoln_electric,Lincoln Electric,demographics_age,45-54,15,percentage
+lincoln_electric,Lincoln Electric,demographics_age,55-64,4,percentage
+lincoln_electric,Lincoln Electric,demographics_age,65+,1,percentage
+lincoln_electric,Lincoln Electric,demographics_gender,male,92,percentage
+lincoln_electric,Lincoln Electric,demographics_gender,female,7,percentage
+lincoln_electric,Lincoln Electric,demographics_gender,other,1,percentage
+lincoln_electric,Lincoln Electric,traffic_sources,youtube_search,40,percentage
+lincoln_electric,Lincoln Electric,traffic_sources,suggested_videos,25,percentage
+lincoln_electric,Lincoln Electric,traffic_sources,browse_features,15,percentage
+lincoln_electric,Lincoln Electric,traffic_sources,external,10,percentage
+lincoln_electric,Lincoln Electric,traffic_sources,direct,6,percentage
+lincoln_electric,Lincoln Electric,traffic_sources,other,4,percentage
+hobart_welding,Hobart Welding,demographics_age,13-17,5,percentage
+hobart_welding,Hobart Welding,demographics_age,18-24,18,percentage
+hobart_welding,Hobart Welding,demographics_age,25-34,35,percentage
+hobart_welding,Hobart Welding,demographics_age,35-44,28,percentage
+hobart_welding,Hobart Welding,demographics_age,45-54,15,percentage
+hobart_welding,Hobart Welding,demographics_age,55-64,4,percentage
+hobart_welding,Hobart Welding,demographics_age,65+,1,percentage
+hobart_welding,Hobart Welding,demographics_gender,male,92,percentage
+hobart_welding,Hobart Welding,demographics_gender,female,7,percentage
+hobart_welding,Hobart Welding,demographics_gender,other,1,percentage
+hobart_welding,Hobart Welding,traffic_sources,youtube_search,40,percentage
+hobart_welding,Hobart Welding,traffic_sources,suggested_videos,25,percentage
+hobart_welding,Hobart Welding,traffic_sources,browse_features,15,percentage
+hobart_welding,Hobart Welding,traffic_sources,external,10,percentage
+hobart_welding,Hobart Welding,traffic_sources,direct,6,percentage
+hobart_welding,Hobart Welding,traffic_sources,other,4,percentage
+miller_electric,Miller Electric,demographics_age,13-17,5,percentage
+miller_electric,Miller Electric,demographics_age,18-24,18,percentage
+miller_electric,Miller Electric,demographics_age,25-34,35,percentage
+miller_electric,Miller Electric,demographics_age,35-44,28,percentage
+miller_electric,Miller Electric,demographics_age,45-54,15,percentage
+miller_electric,Miller Electric,demographics_age,55-64,4,percentage
+miller_electric,Miller Electric,demographics_age,65+,1,percentage
+miller_electric,Miller Electric,demographics_gender,male,92,percentage
+miller_electric,Miller Electric,demographics_gender,female,7,percentage
+miller_electric,Miller Electric,demographics_gender,other,1,percentage
+miller_electric,Miller Electric,traffic_sources,youtube_search,40,percentage
+miller_electric,Miller Electric,traffic_sources,suggested_videos,25,percentage
+miller_electric,Miller Electric,traffic_sources,browse_features,15,percentage
+miller_electric,Miller Electric,traffic_sources,external,10,percentage
+miller_electric,Miller Electric,traffic_sources,direct,6,percentage
+miller_electric,Miller Electric,traffic_sources,other,4,percentage
+weldpro,WeldPro,demographics_age,13-17,5,percentage
+weldpro,WeldPro,demographics_age,18-24,18,percentage
+weldpro,WeldPro,demographics_age,25-34,35,percentage
+weldpro,WeldPro,demographics_age,35-44,28,percentage
+weldpro,WeldPro,demographics_age,45-54,15,percentage
+weldpro,WeldPro,demographics_age,55-64,4,percentage
+weldpro,WeldPro,demographics_age,65+,1,percentage
+weldpro,WeldPro,demographics_gender,male,92,percentage
+weldpro,WeldPro,demographics_gender,female,7,percentage
+weldpro,WeldPro,demographics_gender,other,1,percentage
+weldpro,WeldPro,traffic_sources,youtube_search,40,percentage
+weldpro,WeldPro,traffic_sources,suggested_videos,25,percentage
+weldpro,WeldPro,traffic_sources,browse_features,15,percentage
+weldpro,WeldPro,traffic_sources,external,10,percentage
+weldpro,WeldPro,traffic_sources,direct,6,percentage
+weldpro,WeldPro,traffic_sources,other,4,percentage

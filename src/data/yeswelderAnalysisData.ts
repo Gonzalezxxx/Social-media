@@ -7,10 +7,10 @@ export const yeswelderChannel = {
   description: 'Professional welding equipment and tutorials. YesWelder provides high-quality welding machines, accessories, and expert guidance for welders of all skill levels. From beginner tips to advanced techniques, we help you achieve perfect welds every time.',
   customUrl: 'yeswelder',
   publishedAt: '2018-06-12T00:00:00Z',
-  thumbnail: 'https://yt3.ggpht.com/ytc/AMLnZu8JxK7L4qG6kL5X-3QjQ9J5Z8X3W3Y3X3W3Y3X3W3Y3X3W3Y3X3W3Y3X3W3Y=s800-c-k-c0x00ffffff-no-rj',
-  subscriberCount: 285000,
-  videoCount: 486,
-  viewCount: 45000000,
+  thumbnail: 'https://maas-log-prod.cn-wlcb.ufileos.com/anthropic/f86070c4-9c16-4b87-ae15-62ff46c5ea67/51acf0f1caf4415d12d4317945191133.png?UCloudPublicKey=TOKEN_e15ba47a-d098-4fbd-9afc-a0dcf0e4e621&Expires=1758126509&Signature=FBwxRwXnfBBrTw+9/3RQqnXfuAs=',
+  subscriberCount: 158000,
+  videoCount: 324,
+  viewCount: 28500000,
   country: 'US'
 };
 
@@ -35,29 +35,29 @@ export const competitors = {
   lincoln: {
     id: 'UC_lincoln_electric',
     title: 'Lincoln Electric',
-    subscriberCount: 650000,
-    videoCount: 895,
-    viewCount: 95000000,
+    subscriberCount: 420000,
+    videoCount: 625,
+    viewCount: 68000000,
     country: 'US'
   },
   miller: {
     id: 'UC_miller_welding',
     title: 'Miller Electric',
-    subscriberCount: 380000,
-    videoCount: 545,
-    viewCount: 52000000,
+    subscriberCount: 310000,
+    videoCount: 485,
+    viewCount: 42000000,
     country: 'US'
   }
 };
 
 export const yeswelderAnalytics = {
   overview: {
-    totalViews: 45000000,
-    totalWatchTime: 68000000,
-    totalSubscribers: 285000,
-    totalVideos: 486,
-    averageViewDuration: 312,
-    engagementRate: 8.7
+    totalViews: 28500000,
+    totalWatchTime: 71250000,
+    totalSubscribers: 158000,
+    totalVideos: 324,
+    averageViewDuration: 250,
+    engagementRate: 6.2
   },
   dailyStats: [
     { date: '2025-08-01', views: 52500, watchTime: 82800, subscribers: 355 },
