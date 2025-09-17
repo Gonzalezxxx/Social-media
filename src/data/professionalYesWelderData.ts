@@ -258,9 +258,9 @@ export const extendedAnalytics = {
     { device: 'Other', views: 285000, percentage: 1 }
   ],
   contentCategories: [
-    { category: '产品评测', videoCount: 42, totalViews: 5200000, avgEngagement: 8.2 },
-    { category: '技术教程', videoCount: 156, totalViews: 15600000, avgEngagement: 7.5 },
-    { category: '对比测试', videoCount: 68, totalViews: 4560000, avgEngagement: 6.8 },
-    { category: '行业动态', videoCount: 58, totalViews: 3140000, avgEngagement: 5.2 }
+    { category: '产品评测', videoCount: 42, totalViews: 5200000, avgEngagement: 8.2, revenueContribution: 35 },
+    { category: '技术教程', videoCount: 156, totalViews: 15600000, avgEngagement: 7.5, revenueContribution: 45 },
+    { category: '对比测试', videoCount: 68, totalViews: 4560000, avgEngagement: 6.8, revenueContribution: 15 },
+    { category: '行业动态', videoCount: 58, totalViews: 3140000, avgEngagement: 5.2, revenueContribution: 5 }
   ]
 };

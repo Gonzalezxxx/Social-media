@@ -22,9 +22,7 @@ import {
   PolarAngleAxis,
   PolarRadiusAxis,
   Radar,
-  ComposedChart,
-  CandlestickChart,
-  Candlestick
+  ComposedChart
 } from 'recharts';
 import { ComprehensiveYouTubeData } from '../data/comprehensiveMarketingData';
 
